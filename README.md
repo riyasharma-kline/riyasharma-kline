@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1>Hey, I'm Riya Sharma <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h2>🤓 About Me</h2>
 
-<!--
-**riyasharma-kline/riyasharma-kline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a Full Stack Developer. 🤠
+- I am currently working as a Junior Engineer at Kline & Company. 👨‍🎓
+- I have a keen interest in Web and Android Development. 💻
+- I also write [Technical Blog](https://medium.com/@theriyasharma24) posts.📜
 
-Here are some ideas to get you started:
+<h2>🛠 Tech Stack</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=60><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width=65> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width=60>  <img src="https://cdn.iconscout.com/icon/free/png-64/django-1-282754.png" width=60 color="white"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width=60><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width=60>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width=60> <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" width=60>
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width=60> 
+
+
+<!-- Github Profile Stats -->
+
+<!-- <h2>📈 Riya's Github Stats</h2> -->
+<!-- <table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=theriyasharma24&show_icons=true&hide=&count_private=true&theme=dark&locale=en" alt="theriyasharma24" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theriyasharma24&show_icons=true&theme=dark&locale=en&layout=compact" alt="theriyasharma24" /></td>
+  </tr>
+</table> -->
+<!-- <div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theriyasharma24&theme=dark" alt="theriyasharma24" /></p>
+  </div> -->
+  
+ 
+
+
+
+
+
+
+
+
+
